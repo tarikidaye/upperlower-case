@@ -63,4 +63,4 @@ void lowerToUpper(char* ptr){
         
     }printf("---------------\n");
     
-}
+}//tarik idaye
